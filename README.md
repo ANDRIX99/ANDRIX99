@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrea nice to meet you
+# 👋 Hi, I’m Andrea nice to meet you
 - 👀 I’m interested to learn programming and hacking
 - 📫 How to reach me? contact me on e-mail: andrearuzza501@gmail.com
 - 🎵 I like listen music like Trevor Daniel or Billie Eilish and also other artist
