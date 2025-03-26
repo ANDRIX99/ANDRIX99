@@ -9,7 +9,7 @@
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ANDRIX99&no-frame=true&no-bg=true&theme=dracula" alt="ANDRIX99" /></a> </p>
 </div>
 <details>
-  <summary> 🚀 &nbsp;Some Tools I Have Used and Learned</summary>
+  <summary> 🚀Some Tools I Have Used and Learned</summary>
   <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="45" height="45" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" />
