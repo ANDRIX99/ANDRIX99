@@ -19,9 +19,9 @@
 <details>
   <summary><img align="center" src="https://github.com/ANDRIX99/ANDRIX99/blob/main/icons/stats.gif" width="32"/> Stats</summary>
   <div align="center">
-    ![](https://github-readme-stats.vercel.app/api?username=ANDRIX99&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=ANDRIX99&theme=tokyonight&hide_border=false)<br/>
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ANDRIX99&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-    ![](https://github-readme-activity-graph.vercel.app/graph?username=ANDRIX99&theme=tokyo-night)
+![](https://github-readme-stats.vercel.app/api?username=ANDRIX99&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ANDRIX99&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ANDRIX99&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![](https://github-readme-activity-graph.vercel.app/graph?username=ANDRIX99&theme=tokyo-night)
   </div>
 </details>
