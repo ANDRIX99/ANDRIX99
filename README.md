@@ -9,7 +9,7 @@
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ANDRIX99&no-frame=true&no-bg=true&theme=dracula" alt="ANDRIX99" /></a> </p>
 </div>
 <details>
-  <summary> 🚀Some Tools I Have Used and Learned</summary>
+  <summary>🚀 Some Tools I Have Used and Learned</summary>
   <p align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="45" height="45" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="45" height="45" />
@@ -17,9 +17,10 @@
   </p>
 </details>
 <details>
-  <summary><img align="center" src="https://github.com/ANDRIX99/ANDRIX99/blob/main/icons/stats.gif" width="32"/> Stats</summary>
+  <summary>📊 Stats</summary>
   <div align="center">
-![ANDRIX99's github activity graph](https://github-readme-stats.vercel.app/api?username=ANDRIX99&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ANDRIX99&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![ANDRIX99's GitHub stats](https://github-readme-stats.vercel.app/api?username=ANDRIX99&show_icons=true&theme=radical)<br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ANDRIX99&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ANDRIX99&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 ![](https://github-readme-activity-graph.vercel.app/graph?username=ANDRIX99&theme=tokyo-night)
