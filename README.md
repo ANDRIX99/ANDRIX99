@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Andrea</h1>
+<h1 align="center">👋 Hi, I'm Andrea</h1>
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=ANDRIX99&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
 </h2>
@@ -8,6 +8,14 @@
 <div align="center">
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ANDRIX99&no-frame=true&no-bg=true&theme=dracula" alt="ANDRIX99" /></a> </p>
 </div>
+<detail>
+  <summary> 🚀 &nbsp;Some Tools I Have Used and Learned</summary>
+  <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+  </p>
+</detail>
 <details>
   <summary><img align="center" src="https://github.com/ANDRIX99/ANDRIX99/blob/main/icons/stats.gif" width="32"/> Stats</summary>
   <div align="center">
