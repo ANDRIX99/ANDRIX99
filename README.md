@@ -6,7 +6,7 @@
  <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
 </div>
 <div align="center">
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ANDRIX99&no-frame=true&no-bg=true&theme=dracula" alt="ANDRIX99" /></a> </p>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ANDRIX99&theme=darkhub" alt="ANDRIX99" /></a> </p>
 </div>
 <details>
   <summary>🚀 Some Tools I Have Used and Learned</summary>
