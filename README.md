@@ -35,3 +35,9 @@
  
    </div>
  </details>
+ <details>
+   <summary>🏆 Trophy</summary>
+   <div align="center">
+    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ANDRIX99&no-frame=true&no-bg=true&theme=dracula" alt="ANDRIX99" /></a> </p>
+  </div>
+ </details>
